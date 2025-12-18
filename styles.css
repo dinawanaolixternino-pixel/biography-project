@@ -1,0 +1,20 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+div.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 1in;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+strong {
+    color: #0056b3;
+}
+
+em {
+    color: #555;
+}
